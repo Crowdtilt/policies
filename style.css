@@ -1,0 +1,19 @@
+body {
+    color: #666666;
+    box-sizing: content-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5em;
+    padding-bottom: 30px;
+}
+
+h1, h2, h3 {
+    color: #252525;
+}
