@@ -16,6 +16,7 @@ body {
     position: relative;
     width: 940px;
     margin: 0 auto;
+    -webkit-font-smoothing: antialiased;
 }
 
 p, li {
@@ -42,7 +43,16 @@ h2 {
     font-size: 18px;
 }
 
+h3 {
+    font-weight: 700;
+    font-size: 16px;
+}
+
 a {
     color: #00a0d8;
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
