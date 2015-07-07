@@ -4,6 +4,12 @@
 }
 
 @font-face {
+    font-family: "Helvetica Neue Medium";
+    src: url("helvetica-neue-medium.woff");
+}
+
+
+@font-face {
     font-family: "Helvetica";
     src: url("helvetica.woff");
 }
@@ -26,7 +32,7 @@ p, li {
 
 p {
     line-height: 1.5em;
-}    
+}
 
 h1, h2, h3 {
     color: #252525;
