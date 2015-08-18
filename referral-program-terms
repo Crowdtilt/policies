@@ -1,0 +1,208 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Tilt Referral Program Terms</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="header-style.css">
+    <script src="src/jquery-2.1.4.min.js"></script>
+    <script>
+        $(function() {
+            $("#header").load("header.html");
+        });
+    </script>
+  </head>
+  <div id="header"></div>
+  <body>
+  
+ 	<h1>Tilt Referral Program Terms</h1>
+ 	
+ 	<p>The Tilt Referral Program allows registered Tilt users to earn a Referral Reward by referring friends to use Tilt and for those referred friends to receive money towards their Tilt page.</p>
+
+	<p>The referral program is subject to some important rules and limitations that vary by country, so please read these terms carefully. By participating in the program you agree to these terms, which become part of the applicable Tilt Terms of Use.</p>
+
+    <h2>Definitions</h2>
+
+    <p>A <b>Tilt User</b> is a user that has an active account on Tilt at the time of the referral.</p>
+
+	<p>A <b>Referral Link</b> is a unique URL assigned to a Tilt User that enables that user to track and earn rewards for their referrals.</p>
+
+	<p>A <b>Referred Friend</b> is someone who is not a Tilt User that receives a Referral Link from a Tilt User through the Services.</p>
+
+	<p><b>Select Countries</b> means The Netherlands, France, Denmark, Finland, Iceland, Norway, and Sweden.</p>
+
+	<p>Terms that are not defined here will have the same meaning given to them in the version of the applicable Tilt Terms of Use.</p>
+	
+	<h2>How to Earn Money</h2>
+
+	<p>Under this Referral Program, Tilt Users can earn a Referral Reward by having Referred Friend creating (i) a Tilt account using the Tilt User’s Referral Link and (ii) a Qualifying Tilt Page. Only the first Tilt User to send a Referral Link to Referred Friend will be eligible to earn a Reward.</p>
+
+	<p>Referred Friends can earn a Referral Reward by creating a Qualifying Tilt Page.</p>
+
+	<h2>Qualifying Tilt Pages</h2>
+
+	<p>A Qualifying Tilt Page is a Tilt page that is created by a Referred Friend that:</p> 
+
+	<ul>
+    	<li>is created within 90 calendar days of the Referred Friend creating a Tilt account using the Referral Link; 
+		<li>has at least three or more unique contributors who aren’t the Referred Friend or the Tilt User;	
+		<li>achieves the tilt amount, which is the minimum funding goal for a Tilt page; 
+	 	<li>is successfully paid out to the Referred Friend; and
+		<li>achieves the minimum tilt value of the Tilt’s originating region (as outlined below): 
+	</ul>
+
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    text-align: center;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <td></td>
+    <th>United States</th>		
+    <th>Canada</th>
+    <th>Australia</th>
+    <th>United Kingdom</th>
+    <th>Select Countries</th>
+  </tr>
+  <tr>
+    <td>Minimum Tilt Value</td>
+    <td>$50 USD</td>		
+    <td>$50 CAD</td>
+    <td>$50 AUD</td>
+    <td>£30</td>
+    <td>€40</td>
+  </tr>
+</table>
+<p>Note: Minimum Tilt value excludes contributions from referred friend and Tilt user.</p>
+
+The Tilt page created by the Referred Friend also must comply with the version of the Tilt Terms of Use applicable to that Referred Friend.
+
+<h2>Referral Reward Amounts</h2>
+
+<p>A Referral Reward means as follows:</p>
+
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    text-align: center;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <td></td>
+    <th>United States</th>		
+    <th>Canada</th>
+    <th>Australia</th>
+    <th>United Kingdom</th>
+    <th>Select Countries</th>
+  </tr>
+  <tr>
+    <td>Tilt User</td>
+    <td>$50 USD</td>		
+    <td>$50 CAD</td>
+    <td>$50 AUD</td>
+    <td>£30</td>
+    <td>€40</td>
+  </tr>
+  <tr>
+    <td>Referred Friend</td>
+    <td>$50 USD</td>		
+    <td>$50 CAD</td>
+    <td>$50 AUD</td>
+    <td>£30</td>
+    <td>€40</td>
+  </tr>
+</table>
+
+	<p>A person can only have one country assignment and cannot earn under different country locations. No single person can earn more in total than the following Referral Caps:</P>
+
+
+<head>
+<style>
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    text-align: center;
+}
+</style>
+</head>
+<body>
+
+<table style="width:35%">
+  	<tr>
+    	<td>United States</td>		
+    	<td>$1,000 USD</td>
+	</tr>
+	<tr>
+    	<td>Canada</td>
+    	<td>$1,000 CAD</td>
+	</tr>
+	<tr>
+    <td>Australia</td>
+    <td>$1,000 AUD</td>
+    </tr>
+    <tr>
+    	<td>United Kingdom</td>
+    	<td>£500</td>
+    </tr>
+    <tr>
+    <td>Select Countries</td>
+    <td>€700</td>
+    </tr>
+</table>
+
+
+<h2>Payment</h2>
+
+<p>Any money earned under this Referral Program is sent via direct deposit to the bank account associated with either the Tilt user’s or referred friend’s Tilt profile within 10 business days of the qualifying Tilt’s expiration and the Tilt user providing valid payout information on their profile page.</p>
+
+<h2>Referral Links</h2>
+
+<p>You can use referral links only for personal and non-commercial purposes. Please share referral links with friends who will appreciate being invited to Tilt. Don’t share referral links with people you don’t know personally.</p>
+
+<h2>Multiple Referrals</h2>
+
+<p>A Tilt User referring a Referred Friend will only earn a Referral Reward if the Referred Friend creates a Tilt account for the first time with Tilt.</p>
+
+<h2>Status of Past Invites</h2>
+
+<p>Tilt users can check on the status of past invitations here.</p>
+
+<h2>Limitations</h2>
+
+<p>No Referral Reward can be earned through the referral program as a result of fraudulent or illegal activities, or any other conduct that violates our terms of use or other policies. Neither Tilt Users nor Referred Friends can earn a Referral Reward through the Referral Program by creating multiple Tilt profiles. </p>
+
+<p>Tilt reserves the right to investigate and review all activities related to the Referral Program and can cancel or modify referrals for any reason. If Tilt notices any activity that we believe is abusive, fraudulent, illegal, or violative of our Terms of Use or other policies, we may suspend profiles or restrict access to the referral program.</p>
+
+<h2>Severability and Waivers</h2>
+
+<p>If any part of these terms is found to be unenforceable, the remaining parts shall remain in full force and effect. Any failure by Tilt to enforce these terms shall not be considered a waiver and any waiver of these terms must be made in writing and signed by Tilt.</p>
+
+<h2>Modification</h2>
+
+<p>Tilt may change, eliminate, restrict access to the referral program, and modify the requirements of or the incentives to participate in the referral program at any time for any reason. If you continue to participate in the referral program after Tilt’s changes, you consent to the new terms. </p>
+
+
+  </body>
+</html>
