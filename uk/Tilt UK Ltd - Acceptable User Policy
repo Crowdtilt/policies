@@ -1,0 +1,76 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Tilt Acceptable User Policy</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="header-style.css">
+    <script src="src/jquery-2.1.4.min.js"></script>
+    <script>
+        $(function() {
+            $("#header").load("header.html");
+        });
+    </script>
+  </head>
+  <div id="header"></div>
+  <body>
+    <h1>Tilt UK, Ltd.</h1>
+
+    <h1>Acceptable Use Policy</h1>
+    <p>Last Updated July 6th, 2015</p>
+
+    <p>When using our Services, all users in the European Economic Area and contributors contributing to a Tilt Page that was started in the European Economic Area must adhere to this Acceptable Use Policy.</p>
+
+    <p>While we make it easy to start a Tilt Page to collect funds in your community, we can’t allow a Tilt Page to collect funds for:</p>
+    <ul>
+      <li>Illegal or very likely to be illegal activities</li>
+      <li>Regulated activities</li>
+      <li>Pornography or any sexually-related services such as prostitution, escorts, pay-per view, adult live chat features (i.e. Pages related to the purchase of pornography or sexually-related services)</li>
+      <li>Gambling (i.e. don’t set up a group gambling pool)</li>
+      <li>Transactions prohibited by banks processing these transactions or the relevant payments associations</li>
+    </ul>
+
+    <p>You also agree that you will not use the Sell Something service in connection with the sale of the following types of goods, products or services:</p>
+    <ul>
+	  <li>Equity transactions (i.e. equity crowdfunding) or lending (i.e. peer-to-peer lending)</li>
+	  <li>Tobacco products, including e-cigarettes (i.e. selling tobacco products on Sell Something)</li>
+	  <li>Prescription drugs</li>
+	  <li>Drugs or other controlled substances and related paraphernalia</li>
+	  <li>Firearms </li>
+	  <li>Products/services intended to inflict or promote revenge</li>
+	  <li>Weapons (including but not limited to crossbows, projectile weapons) and knives </li>
+	  <li>Satellite and Cable TV descramblers </li>
+	  <li>Government IDs and licenses including replicas and novelty items </li>
+	  <li>Extended warranties</li>
+	  <li>Non-licensed counseling centers (e.g. unlicensed debt and financial counseling or substance abuse counseling)</li>
+	  <li>Lotteries or gambling</li>
+	  <li>Prepaid debit cards or other stored value cards </li>
+	  <li>Multi-level marketing, pyramid selling or ponzi schemes, matrix programs or other “get rich quick” schemes or high yield investment programs </li>
+	  <li>Goods or services that infringe the intellectual property rights of a third party included but not limited to illegal downloads, counterfeit goods, etc. </li>
+	  <li>Materials which incites violence, hatred or racism or which are obscene </li>
+	  <li>Spiritual services offering astrology, potions and magic or other similar businesses, such as fortune telling or dream interpretation</li>
+	  <li>Goods or services that promote, encourage or facilitate illegal activities (e.g. Essay writing services; sale of empty game cartridges; Companies offering leads, lists of e-mails/phone numbers</li>
+	  <li>Jamming equipment (cell jammers)</li>
+	  <li>Traffic devices (e.g. license plate covers, radar jammers)</li>
+	  <li>Massage parlors</li>
+	  <li>Items incorporating proprietary rights (included but not limited to any Intellectual Property Rights) belonging to third parties without full permission </li>
+	  <li>Matrimonial services (e.g. mail-order brides)</li>
+	  <li>One-time raffle for substantial prizes such as a Car, Yacht or House </li>
+	  <li>“Buying fans” and related business models </li>
+	  <li>Timeshares or property reservations (Off and On Plan) </li>
+	  <li>The sale, promotion, distribution or marketing of any of the following: products with unproved efficacy (e.g. slimming pills and body enhancers) </li>
+	  <li>Pornography or sexual services</li>
+	  <li>Harassment, and other forms of abuse, humiliation and intimidation</li>
+	  <li>File hosting and sharing services, (including any resellers) </li>
+	  <li>Human parts</li>
+	  <li>Hacking or cracking tools</li>
+	  <li>Illegal/Stolen goods</li>
+	  <li>Any merchant selling goods or services deemed by Tilt lack value or quality, thereby increasing the probability of customer dissatisfaction and chargebacks.</li>
+	  <li>Other illegal activities</li>
+	  <li>Other regulated activities</li>
+    </ul>
+  </body>
+</html>
