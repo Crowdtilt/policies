@@ -3,14 +3,6 @@
     margin-right: auto;
     margin-left: auto;
 }
-@media (max-width:940px) {
-  .container {
-    width: auto;
-  }
-  header ul.masthead-nav {
-    padding: 0;
-  }
-}
 
 .header {
     border-color: #e6e6e6;
@@ -52,6 +44,15 @@ header ul.masthead-nav {
     vertical-align: middle;
     display: inline-block;
     padding: 0 13px;
+}
+
+@media (max-width:940px) {
+  .container {
+    width: auto;
+  }
+  header ul.masthead-nav {
+    padding: 0;
+  }
 }
 
 header ul.masthead-nav li {
