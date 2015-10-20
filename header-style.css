@@ -3,6 +3,14 @@
     margin-right: auto;
     margin-left: auto;
 }
+@media (max-width:940px) {
+  .container {
+    width: auto;
+  }
+  header ul.masthead-nav {
+    padding: 0;
+  }
+}
 
 .header {
     border-color: #e6e6e6;
